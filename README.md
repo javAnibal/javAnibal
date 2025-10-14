@@ -1,16 +1,53 @@
-## Hi there 👋
+# Anibal — Desarrollador Backend
 
-<!--
-**javAnibal/javAnibal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador backend especializado en **Java** y **Spring Boot**, con experiencia en la creación de aplicaciones robustas y escalables.  
+Trabajo con bases de datos relacionales, APIs RESTful y despliegue de servicios con Docker.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas
+
+- **Lenguajes:** Java, HTML, CSS, JavaScript  
+- **Frameworks:** Spring Boot, JPA  
+- **Bases de datos:** MySQL  
+- **Testing y API:** Postman  
+- **Infraestructura:** Docker  
+
+---
+
+## Experiencia y enfoque
+
+- Desarrollo de APIs RESTful y microservicios.  
+- Modelado y gestión de bases de datos relacionales con MySQL y JPA.  
+- Pruebas de APIs con Postman.  
+- Contenerización y despliegue de aplicaciones con Docker.  
+- Integración de frontend simple (HTML/CSS/JS) cuando es necesario.  
+
+---
+
+## Proyectos destacados
+/*
+**[Proyecto 1](https://github.com/javAnibal/proyecto1)**  
+Backend para gestión de inventario con Spring Boot y MySQL.  
+- API REST  
+- Docker Compose  
+- JPA para persistencia de datos  
+
+**[Proyecto 2](https://github.com/javAnibal/proyecto2)**  
+Servicio backend de autenticación y usuarios.  
+- Spring Boot  
+- JWT y seguridad básica  
+- MySQL y JPA  
+*/
+---
+
+/*
+## Contacto
+
+📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+
+---
+*/
+Abierto a oportunidades en desarrollo backend, creación de APIs y arquitectura de sistemas escalables.
+
