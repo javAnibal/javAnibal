@@ -45,7 +45,7 @@ Servicio backend de autenticación y usuarios.
 ## Contacto
 
 📧 [Correo](a88anibal@gmail.com)
-🔗 [LinkedIn](https://github.com/javAnibal)
+🔗 [LinkedIn](https://www.linkedin.com/in/anibal-solano-f/)
 
 
 
