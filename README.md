@@ -26,7 +26,7 @@ Trabajo con bases de datos relacionales, APIs RESTful y despliegue de servicios 
 ---
 
 ## Proyectos destacados
-/*
+
 **[Proyecto 1](https://github.com/javAnibal/proyecto1)**  
 Backend para gestión de inventario con Spring Boot y MySQL.  
 - API REST  
@@ -38,10 +38,10 @@ Servicio backend de autenticación y usuarios.
 - Spring Boot  
 - JWT y seguridad básica  
 - MySQL y JPA  
-*/
+
 ---
 
-/*
+
 ## Contacto
 
 📧 [Correo](a88anibal@gmail.com)
