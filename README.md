@@ -45,7 +45,7 @@ Servicio backend de autenticación y usuarios.
 ## Contacto
 
 📧 [tuemail@ejemplo.com](a88anibal@gmail.com)  
-🔗 [LinkedIn]([(https://github.com/javAnibal])
+🔗 [LinkedIn]https://github.com/javAnibal
 
 
 
