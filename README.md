@@ -27,7 +27,7 @@ Trabajo con bases de datos relacionales, APIs RESTful y despliegue de servicios 
 
 ## Proyectos destacados
 
-**[Proyecto 1](https://github.com/javAnibal/proyecto1)**  
+**[Proyecto 1](https://github.com/javAnibal/quiz-backend-springboot.git)**  
 Backend para gestión de inventario con Spring Boot y MySQL.  
 - API REST  
 - Docker Compose  
