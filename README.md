@@ -27,7 +27,7 @@ Trabajo con **MySQL** y **Postgres**, -> APIs RESTful y despliegue de servicios 
 
 ## Proyectos destacados
 
-**[Quiz-Backend](https://github.com/javAnibal/quiz-backend-springboot.git)**  
+**[Quiz-Backend-SpringBoot](https://github.com/javAnibal/quiz-backend-springboot.git)**  
 Backend para cuestioanrio de preguntas con Spring Boot y Postgres.  
 - API REST  
 - Docker Compose  
