@@ -3,8 +3,6 @@
 Soy desarrollador backend especializado en **Java** y **Spring Boot**, con experiencia en la creación de aplicaciones multiplataforma.  
 Trabajo con **MySQL** y **Postgres**, -> APIs RESTful y despliegue de servicios con Docker.
 
----
-
 ## Tecnologías y herramientas
 
 - **Lenguajes:** Java, HTML, CSS, JavaScript  
@@ -14,7 +12,6 @@ Trabajo con **MySQL** y **Postgres**, -> APIs RESTful y despliegue de servicios 
 - **Infraestructura:** Docker  
 
 ---
-
 ## Proyectos destacados
 
 **[Quiz-Backend-SpringBoot](https://github.com/javAnibal/quiz-backend-springboot.git)**  
