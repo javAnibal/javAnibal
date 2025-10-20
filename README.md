@@ -15,28 +15,16 @@ Trabajo con **MySQL** y **Postgres**, -> APIs RESTful y despliegue de servicios 
 
 ---
 
-## Experiencia y enfoque
-
-- Desarrollo de APIs RESTful y microservicios.  
-- Modelado y gestión de bases de datos relacionales con MySQL y JPA.  
-- Pruebas de APIs con Postman.  
-- Contenerización y despliegue de aplicaciones con Docker.  
-- Integración de frontend - Flutter - dart
-
----
-
 ## Proyectos destacados
 
 **[Quiz-Backend-SpringBoot](https://github.com/javAnibal/quiz-backend-springboot.git)**  
-Backend para cuestioanrio de preguntas con Spring Boot y Postgres.  
+Backend para cuestioanrio de preguntas con Spring Boot y Postgres -  JSON.  
 - API REST  
 - Docker Compose  
 - JPA para persistencia de datos  
 
 **[Proyecto 2](https://github.com/javAnibal/proyecto2)**  
-Servicio backend de autenticación y usuarios.  
-- Spring Boot  
-- MySQL y JPA  
+Aun por completar 
 
 ---
 
@@ -45,8 +33,5 @@ Servicio backend de autenticación y usuarios.
 
 📧 [Correo](a88anibal@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/anibal-solano-f/)
-
-
-
 Abierto a oportunidades en desarrollo backend, creación de APIs y arquitectura de sistemas escalables.
 
