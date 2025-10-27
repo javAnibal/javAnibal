@@ -5,8 +5,8 @@ Trabajo con **MySQL** y **Postgres**, -> APIs RESTful y despliegue de servicios 
 
 ## Tecnologías y herramientas
 
-- **Lenguajes:** Java, HTML, CSS, JavaScript  
-- **Frameworks:** Spring Boot, JPA , Lombok, Hibernate 
+- **Lenguajes:** Java, HTML, CSS, Dart  
+- **Frameworks:** Spring Boot, JPA , Lombok, Hibernate, Flutter
 - **Bases de datos:** MySQL , Postgres
 - **Testing y API:** Postman  
 - **Infraestructura:** Docker  
